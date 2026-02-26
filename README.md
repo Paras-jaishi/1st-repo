@@ -1,2 +1,3 @@
-# 1st-repo
-This is my first git repo
+# 1st-repository
+This is my first Git repo
+By-Paras Jaishi
